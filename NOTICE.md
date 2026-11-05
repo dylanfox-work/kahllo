@@ -4,4 +4,4 @@ Copyright © 2026 Dylan Fox. All rights reserved.
 
 This repository is a public portfolio showcase. No license is granted to copy, reproduce, distribute, reverse engineer, or create derivative products from the concepts, branding, screenshots, or other materials presented here.
 
-The production implementation and source code for Fox Ordering Systems are proprietary and are not included in this repository.
+The production implementation and source code for Kahllo are proprietary and are not included in this repository.

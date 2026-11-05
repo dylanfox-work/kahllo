@@ -1,29 +1,29 @@
-<img src="assets/logo.webp" alt="Fox Ordering Systems logo" width="96" align="right">
+<img src="assets/logo.webp" alt="Kahllo logo" width="96" align="right">
 
-# Fox Ordering Systems
+# Kahllo
 
-**A modern pickup-ordering experience connected to the way restaurants already operate.**
+**Online ordering that works with the phone already on the counter.**
 
-**Status:** Coming soon · [View Dylan's portfolio](https://dylanfox.work)
+**Status:** Coming soon · [Explore the product](https://fox-ordering-systems.pages.dev) · [View Dylan's portfolio](https://dylanfox.work)
 
-![Fox Ordering Systems interface](assets/preview.webp)
+![Kahllo online ordering and phone-notification interface](assets/preview.webp)
 
 ## The product
 
-Fox Ordering Systems gives customers a clear mobile ordering flow, validates each pickup order, and delivers it to the restaurant through an automated phone workflow. The product is designed to reduce missed details without forcing a restaurant to rebuild its operation around new hardware.
+Kahllo gives restaurants a branded online ordering page and delivers each validated order through a clear automated phone call. Customers get a fast menu and checkout experience; restaurants can receive and track orders without adding another tablet, printer, or staff dashboard.
 
 ## What I built
 
-- A mobile-first menu, cart, checkout, and confirmation flow
-- Structured customization and order validation
-- Automated restaurant notification and acknowledgment workflows
-- An operations view for order status and follow-up
-- Guardrails for pilot testing and controlled rollout
+- Branded restaurant menus, carts, checkout, and confirmation
+- Structured item customization and server-side order validation
+- Automated phone notification, replay, and acknowledgment workflows
+- Restaurant management for menus, orders, customers, and availability
+- Delivery-state tracking and safeguards for a controlled rollout
 
 I lead the product concept, operations design, full-stack implementation, and pilot planning.
 
 ## Repository note
 
-This is a public product showcase. Production source code, telephony workflows, restaurant configuration, and infrastructure are maintained privately.
+This is a public product showcase. Production source code, telephony workflows, restaurant configuration, and infrastructure remain private.
 
 © 2026 Dylan Fox. All rights reserved.
