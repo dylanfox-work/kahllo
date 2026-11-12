@@ -1,12 +1,14 @@
-<img src="assets/logo.webp" alt="Kahllo logo" width="96" align="right">
+<img src="assets/logo.webp" alt="Kahllo logo" width="72" align="right">
 
 # Kahllo
 
 **Online ordering that works with the phone already on the counter.**
 
-**Status:** Coming soon · [Explore the product](https://fox-ordering-systems.pages.dev) · [View Dylan's portfolio](https://dylanfox.work)
+**Status:** Coming soon · [Explore the product](https://kahllo.com) · [View Dylan's portfolio](https://dylanfox.work)
 
-![Kahllo online ordering and phone-notification interface](assets/preview.webp)
+<p><img src="assets/preview.webp" alt="Kahllo online ordering and automated phone-notification product preview" width="860"></p>
+
+<table><tr><td><img src="assets/logo.webp" alt="" width="34"></td><td><strong>Kahllo</strong></td></tr></table>
 
 ## The product
 
